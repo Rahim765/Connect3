@@ -1,2 +1,2 @@
 # Connect3
-Tic Toc Toe Game android
+Tic Toc Toe android Game  
